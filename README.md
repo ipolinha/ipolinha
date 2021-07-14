@@ -2,6 +2,7 @@
 - 👀 I’m interested in backend and frontend
 - 🌱 I’m currently learning html,c++, python
 - 💞️ I’m not looking to collaborate
+- estudando ux/ui com aplicação em adobe XD
 
 
 <!---
