@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu Sou a Paula Souza</h1>
-<h3 align="center">Apaixonada pelas aréas de dados com foco na engenharia de dados</h3>
+<h3 align="center">Apaixonada pelas aréas de dados com foco na Engenharia de Dados</h3>
 
 - 🌱 Atualmente estou aprendendo **opencv, Docker e Curbnet**
 
