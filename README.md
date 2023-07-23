@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, Eu Sou a Paula Souza</h1>
-<h3 align="center">Apaixonada pelas aréas de dados com foco na Engenharia de Dados</h3>
-
+<h3 align="center">-------------------------</h3>
+ 
 - 🌱 Atualmente estou aprendendo **opencv, Docker e Curbnet**
 
 - 👯 Atualmente eu estou trabalhando na ESIG e NUPLAM **ESIG SOFTWARE E CONSULTORIA**
